@@ -1,0 +1,24 @@
+.mi-lista {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+.mi-lista li {
+    color: rgb(0, 0, 0); 
+    font-style: italic; 
+}
+
+h1 {
+    color: rgb(0, 0, 0); 
+    font-style: italic; 
+}
+
+
+.cumplido {
+    background-color: green; 
+}
+
+
+.fallido {
+    background-color: red; 
+}
